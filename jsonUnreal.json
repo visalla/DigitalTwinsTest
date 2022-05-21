@@ -1,14 +1,14 @@
 {
   "telemetry": [
     {
-      "_id": "aae7968e-512e-4d5d-90e2-0e750491dd1e",
+      "id": "0",
       "_type": "property",
       "name": "luz",
       "enabled": "true"
      
     },
     {
-      "_id": "501c381a-a7c0-463b-9a27-5c131fac376d",
+      "id": "1",
       "_type": "property",
       "name": "agua",
       "enabled": "false"
